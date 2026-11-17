@@ -1,0 +1,21 @@
+{
+  "number": 20,
+  "name": "plugNmeet",
+  "source": "https://www.plugnmeet.org/",
+  "docker_hub": "mynaparrot/plugnmeet-etherpad",
+  "tag": "v2.0",
+  "repository": "https://github.com/waskevin/tnas-app-plugnmeet",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "screenshot_path": "precheck-screenshots/plugnmeet/x86_64/run.png",
+  "screenshot_status": "captured",
+  "developer_name": "管浩良",
+  "developer_email": "k.kuan@qq.com",
+  "submission_status": "not_submitted",
+  "scheduled_publish": "20:00",
+  "runtime_status": "no_http",
+  "runtime_note": ""
+}
