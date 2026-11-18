@@ -1,0 +1,6 @@
+services:
+  plugnmeet:
+    image: mynaparrot/plugnmeet-etherpad:v2.0
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
